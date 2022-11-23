@@ -1,0 +1,3 @@
+Accuracy of lenses Dataset : 87.5
+
+Accuracy of BankNote Dataset : 100
